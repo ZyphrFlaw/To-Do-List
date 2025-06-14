@@ -1,1 +1,1 @@
-Pesonal project for TO DO List in C.
+TO-DO List in C.
